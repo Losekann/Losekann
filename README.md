@@ -17,8 +17,6 @@
 
 Sou estudante de **Sistemas de Informação na AMF** e trabalho na **Insi** como Inspetor de Qualidade, validando documentos de associados de cooperativas para um banco. No dia a dia lido com **processos, dados e qualidade** — e levo esse olhar para o código: organização, regras de negócio bem definidas e atenção aos detalhes.
 
-Venho do interior de Agudo (RS), de família de agricultores, e isso me motiva a criar tecnologia que resolva problemas reais, como a gestão de pequenas propriedades rurais.
-
 - 🎯 **Buscando:** Vagas em desenvolvimento / IA
 - 🌱 **Estudando agora:** Clean Architecture, DDD, TypeScript/Node e IA generativa
 - 🔭 **Interesse:** AI Engineering, back-end e aplicações mobile
