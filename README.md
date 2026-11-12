@@ -1,10 +1,13 @@
-<h1 align="center">Olá, eu sou o Guilherme Losekann 👋</h1>
 <p align="center">
-  Estudante de Sistemas de Informação · Desenvolvimento Full-Stack & Mobile · Interesse em IA aplicada
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Guilherme%20Losekann&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=4FD1C5&center=true&vCenter=true&width=520&lines=Sistemas+de+Informa%C3%A7%C3%A3o+%40+AMF;Full-Stack+%26+Mobile;Interesse+em+IA+aplicada" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/guilhermelosekann/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:guilherme.losekann@amf.edu.br"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -12,9 +15,8 @@
 
 ### 🧑‍💻 Sobre mim
 
-Sou estudante de **Sistemas de Informação na AMF**  e trabalho na **Insi ** como Inspetor de Qualidade, validando documentos de associados de cooperativas para um banco. No dia a dia lido com **processos, dados e qualidade** — e levo esse olhar para o código: organização, regras de negócio bem definidas e atenção aos detalhes.
+Sou estudante de **Sistemas de Informação na AMF** e trabalho na **Insi** como Inspetor de Qualidade, validando documentos de associados de cooperativas para um banco. No dia a dia lido com **processos, dados e qualidade** — e levo esse olhar para o código: organização, regras de negócio bem definidas e atenção aos detalhes.
 
-Venho do interior de Agudo (RS), de família de agricultores, e isso me motiva a criar tecnologia que resolva problemas reais, como a gestão de pequenas propriedades rurais.
 
 - 🎯 **Buscando:** Vagas em desenvolvimento / IA
 - 🌱 **Estudando agora:** Clean Architecture, DDD, TypeScript/Node e IA generativa
