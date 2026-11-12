@@ -36,7 +36,7 @@ Venho do interior de Agudo (RS), de família de agricultores, e isso me motiva a
 ### 🎓 Formação e experiência
 
 - **Sistemas de Informação** — AMF, Recanto Maestro (2024–2028)
-- **Insi (BPO)** — Inspetor de Qualidade · Assistente de BPO II (2024–atual)
+- **Insi** — Inspetor de Qualidade · Assistente de BPO II (2024–atual)
 - **AMF** — Estagiário de TI (2024)
 - **Eventos:** Code Race · MICAMF 2026 (resumo expandido e pôster) · viagens técnicas
 
