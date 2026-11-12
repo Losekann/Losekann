@@ -12,14 +12,14 @@
 
 ### 🧑‍💻 Sobre mim
 
-Sou estudante de **Sistemas de Informação na AMF** (previsão de formatura: 2028) e trabalho na **Insi (BPO)** como Inspetor de Qualidade, validando documentos de associados de cooperativas para um banco. No dia a dia lido com **processos, dados e qualidade** — e levo esse olhar para o código: organização, regras de negócio bem definidas e atenção aos detalhes.
+Sou estudante de **Sistemas de Informação na AMF**  e trabalho na **Insi ** como Inspetor de Qualidade, validando documentos de associados de cooperativas para um banco. No dia a dia lido com **processos, dados e qualidade** — e levo esse olhar para o código: organização, regras de negócio bem definidas e atenção aos detalhes.
 
 Venho do interior de Agudo (RS), de família de agricultores, e isso me motiva a criar tecnologia que resolva problemas reais, como a gestão de pequenas propriedades rurais.
 
-- 🎯 **Buscando:** estágio em desenvolvimento / IA
+- 🎯 **Buscando:** Vagas em desenvolvimento / IA
 - 🌱 **Estudando agora:** Clean Architecture, DDD, TypeScript/Node e IA generativa
 - 🔭 **Interesse:** AI Engineering, back-end e aplicações mobile
-- ⚡ **Curiosidade:** corredor amador, treinando para fazer 5 km abaixo de 20 min 🏃
+- ⚡ **Curiosidade:** corredor amador
 
 ---
 
@@ -32,16 +32,6 @@ Venho do interior de Agudo (RS), de família de agricultores, e isso me motiva a
 
 ---
 
-### 🚀 Projetos em destaque
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [**Empréstimo de Equipamentos**](https://github.com/Losekann/REPO) | Sistema de empréstimo de equipamentos de laboratório aplicando **DDD e Clean Architecture**, sem frameworks | TypeScript · Node · Sequelize · PostgreSQL · MongoDB |
-| [**App de Gestão Rural**](https://github.com/Losekann/REPO) | Protótipo de gestão simplificada para pequenas propriedades rurais — tema de pesquisa apresentado na MICAMF 2026 | _stack_ |
-| [**Infohub**](https://github.com/Losekann/REPO) | _Descreva em uma linha o problema que ele resolve_ | _stack_ |
-| [**Controle Financeiro**](https://github.com/Losekann/REPO) | Controle de gastos, patrimônio e investimentos usando Google Sheets como banco de dados | Google Sheets · Apps Script |
-
----
 
 ### 🎓 Formação e experiência
 
