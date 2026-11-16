@@ -68,11 +68,4 @@ Sou estudante de **Sistemas de Informação na AMF** e trabalho na **Insi** como
 - **AMF** — Estagiário de TI (2024)
 - **Eventos:** Code Race · MICAMF 2026 (resumo expandido e pôster) · viagens técnicas
 
----
 
-### 📊 Estatísticas
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Losekann&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Losekann&layout=compact&theme=transparent&hide_border=true" />
-</p>
