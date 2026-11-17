@@ -66,6 +66,6 @@ Sou estudante de **Sistemas de Informação na AMF** e trabalho na **Insi** como
 - **Sistemas de Informação** — AMF, Recanto Maestro (2024–2028)
 - **Insi** — Inspetor de Qualidade · Assistente de BPO II (2024–atual)
 - **AMF** — Estagiário de TI (2024)
-- **Eventos:** Code Race · MICAMF 2026 (resumo expandido e pôster) · viagens técnicas
+- **Eventos:** Code Race  · viagens técnicas
 
 
